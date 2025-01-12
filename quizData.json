@@ -88,5 +88,14 @@
         "d": "Dolina Kieżmarska",
         "correct": "c",
         "image": "img/gerlach-od-doliny-batyzowieckiej.jpg"
+    },
+    {
+        "question": "Jak nazywa się to schronisko?",
+        "a": "Schronisko pod Rysami",
+        "b": "Chata Zamkowskiego",
+        "c": "Schronisko w Roztoce",
+        "d": "Schronisko Murowaniec",
+        "correct": "b",
+        "image": "img/chata-zamkowskiego.jpg"
     }
 ]

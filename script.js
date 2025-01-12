@@ -9,12 +9,21 @@ let score = 0;
 let answered = false;
 let quizData = [];
 
+// Funkcja do losowego mieszania tablicy
+function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+}
+
 // Ładowanie danych quizu
 function loadQuizData() {
     fetch('quizData.json')
         .then(response => response.json())
         .then(data => {
-            quizData = data;
+            quizData = shuffleArray(data); // Wymieszaj pytania przed pokazaniem
             showQuestion(currentQuestion);
         })
         .catch(error => {
@@ -22,6 +31,14 @@ function loadQuizData() {
             resultsContainer.innerHTML = '<h2>Wystąpił problem z ładowaniem danych quizu.</h2>';
         });
 }
+
+// Załaduj dane quizu i zaktualizuj tekst na stronie tytułowej
+fetch('quizData.json')
+    .then(response => response.json())
+    .then(data => {
+        const welcomeText = document.querySelector('#welcome p');
+        welcomeText.textContent = `Baza tatrzańskiego quizu zawiera obecnie ${data.length} pytań. Sprawdź swoją wiedzę o Tatrach!`;
+    });
 
 function showQuestion(questionIndex) {
     const questionData = quizData[questionIndex];
