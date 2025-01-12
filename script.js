@@ -1,0 +1,117 @@
+const welcomeContainer = document.getElementById('welcome');
+const quizContainer = document.getElementById('quiz');
+const nextButton = document.getElementById('next');
+const resultsContainer = document.getElementById('results');
+const startButton = document.getElementById('start');
+
+let currentQuestion = 0;
+let score = 0;
+let answered = false;
+let quizData = [];
+
+// Ładowanie danych quizu
+function loadQuizData() {
+    fetch('quizData.json')
+        .then(response => response.json())
+        .then(data => {
+            quizData = data;
+            showQuestion(currentQuestion);
+        })
+        .catch(error => {
+            console.error('Error loading quiz data:', error);
+            resultsContainer.innerHTML = '<h2>Wystąpił problem z ładowaniem danych quizu.</h2>';
+        });
+}
+
+function showQuestion(questionIndex) {
+    const questionData = quizData[questionIndex];
+    quizContainer.innerHTML = `
+        <div class="question">${questionData.question}</div>
+        ${questionData.image ? `<img src="${questionData.image}" alt="Quiz image">` : ''}
+        <div class="answers">
+            <label>
+                <input type="radio" name="answer" value="a">
+                ${questionData.a}
+            </label><br>
+            <label>
+                <input type="radio" name="answer" value="b">
+                ${questionData.b}
+            </label><br>
+            <label>
+                <input type="radio" name="answer" value="c">
+                ${questionData.c}
+            </label><br>
+            <label>
+                <input type="radio" name="answer" value="d">
+                ${questionData.d}
+            </label>
+        </div>
+    `;
+    answered = false;
+    nextButton.style.display = 'none'; // Ukrywa przycisk "Następne pytanie" do momentu udzielenia odpowiedzi
+}
+
+function showNextQuestion() {
+    if (answered) {
+        currentQuestion++;
+        if (currentQuestion < quizData.length) {
+            showQuestion(currentQuestion);
+        } else {
+            showResults();
+        }
+    }
+}
+
+function checkAnswer() {
+    if (answered) return;
+
+    const answerContainer = quizContainer.querySelector('.answers');
+    const userAnswer = (answerContainer.querySelector('input[name=answer]:checked') || {}).value;
+
+    if (!userAnswer) return;  // Jeśli użytkownik nie wybrał odpowiedzi, nie rób nic
+
+    const correctAnswer = quizData[currentQuestion].correct;
+
+    answerContainer.querySelectorAll('label').forEach(label => {
+        const input = label.querySelector('input');
+        if (input.value === correctAnswer) {
+            label.style.color = 'green';
+        } else if (input.checked && input.value !== correctAnswer) {
+            label.style.color = 'red';
+        }
+    });
+
+    if (userAnswer === correctAnswer) {
+        score++;
+    }
+
+    answered = true;
+    nextButton.style.display = 'block';  // Pokazuje przycisk "Następne pytanie" po udzieleniu odpowiedzi
+}
+
+function showResults() {
+    quizContainer.style.display = 'none';
+    nextButton.style.display = 'none'; // Ukrywa przycisk "Następne pytanie" po zakończeniu quizu
+    resultsContainer.innerHTML = `
+        <h2>Twój wynik: ${score} / ${quizData.length}</h2>
+        <button id="retry">Wykonaj quiz ponownie</button>
+    `;
+
+    document.getElementById('retry').addEventListener('click', () => {
+        currentQuestion = 0;
+        score = 0;
+        showQuestion(currentQuestion);
+        quizContainer.style.display = 'block';
+        nextButton.style.display = 'block';
+        resultsContainer.innerHTML = '';
+    });
+}
+
+startButton.addEventListener('click', () => {
+    welcomeContainer.style.display = 'none';
+    quizContainer.style.display = 'block';
+    loadQuizData(); // Załaduj dane quizu po kliknięciu przycisku "Rozpocznij quiz"
+});
+
+nextButton.addEventListener('click', showNextQuestion);
+quizContainer.addEventListener('change', checkAnswer);

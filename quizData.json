@@ -1,0 +1,92 @@
+[
+    {
+        "question": "Jak nazywa się najwyższy szczyt polskich Tatr?",
+        "a": "Rysy",
+        "b": "Kasprowy Wierch",
+        "c": "Giewont",
+        "d": "Świnica",
+        "correct": "a",
+        "image": "img/kotlinka-pod-waga.jpg"
+    },
+    {
+        "question": "Jak nazywa się ten budynek?",
+        "a": "Śląski Dom",
+        "b": "Chata Zamkowskiego",
+        "c": "Hrebeniok",
+        "d": "Chata Bilika",
+        "correct": "c",
+        "image": "img/hrebeniok-turysci.jpg"
+    },
+    {
+        "question": "Co to za schronisko?",
+        "a": "Zbójnicka Chata",
+        "b": "Chata Terryego",
+        "c": "Waga pod Rysami",
+        "d": "Schronisko na Solisku",
+        "correct": "a",
+        "image": "img/zbojnicka-chata.jpg"
+    },
+    {
+        "question": "Jak nazywa się to jezioro?",
+        "a": "Popradzki Staw",
+        "b": "Duży Hińczowy Staw",
+        "c": "Czarny Staw pod Rysami",
+        "d": "Wielki Staw w Dolinie Pięciu Stawów",
+        "correct": "b",
+        "image": "img/duzy-hinczowy-staw.jpg"
+    },
+    {
+        "question": "Jak nazywa się ta przełęcz?",
+        "a": "Przełęcz Zawrat",
+        "b": "Świnicka Przełęcz",
+        "c": "Przełęcz Krzyżne",
+        "d": "Przełęcz Karb",
+        "correct": "d",
+        "image": "img/przelecz-karb-zima.jpg"
+    },
+    {
+        "question": "Co to za budynek?",
+        "a": "Górna stacja kolejki na Łomnicę",
+        "b": "Dolna stacja kolejki na Łomnicę",
+        "c": "Stacja kolejki na Solisku",
+        "d": "Wyciąg na Kasprowy Wierch",
+        "correct": "a",
+        "image": "img/gorna-stacja-kolejki-lomnica.jpg"
+    },
+    {
+        "question": "Jak nazywa się grań widoczna na zdjęciu?",
+        "a": "Grań Baszt",
+        "b": "Sławkowska Grań",
+        "c": "Staroleśna Grań",
+        "d": "Grań Rohaczy",
+        "correct": "a",
+        "image": "img/gran-baszt-z-koprowego-wierchu.jpg"
+    },
+    {
+        "question": "Jak nazywa się dolina widoczna na zdjęciu?",
+        "a": "Dolina Małej Zimnej Wody",
+        "b": "Dolina Rybiego Potoku",
+        "c": "Dolina Złomisk",
+        "d": "Dolina Czarna Jaworowa",
+        "correct": "c",
+        "image": "img/panorama-dolina-zlomisk.jpg"
+    },
+    {
+        "question": "Na jakim szczycie znajduję się ta charaketerystyczna skała?",
+        "a": "Staroleśny Szczyt",
+        "b": "Pośrednia Grań",
+        "c": "Baranie Rogi",
+        "d": "Kończysta",
+        "correct": "d",
+        "image": "img/kowadelko-na-konczystej.jpg"
+    },
+    {
+        "question": "Jak nazywa się ta dolina?",
+        "a": "Dolina Mięguszowiecka",
+        "b": "Dolina Staroleśna",
+        "c": "Dolina Batyżowiecka",
+        "d": "Dolina Kieżmarska",
+        "correct": "c",
+        "image": "img/gerlach-od-doliny-batyzowieckiej.jpg"
+    }
+]
