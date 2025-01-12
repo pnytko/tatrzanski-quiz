@@ -20,6 +20,11 @@ jobs:
       - name: Echo deploy message
         run: echo "Deploying with message - ${{ github.event.inputs.deploy_message || 'Push based deployment' }}"
       
+      - name: List files to deploy
+        run: |
+          echo "Files to deploy:"
+          ls -la
+      
       - name: FTP Deploy
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
@@ -28,3 +33,5 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           server-dir: /domains/tatrzanski-quiz.pnytko.pl/public_html/
           dangerous-clean-slate: true
+          dry-run: false
+          log-level: verbose
