@@ -1,44 +1,30 @@
-name: Deploy to GitHub Pages
+name: Deploy to SEOhost
 
 on:
   push:
-    branches: ["main"]
+    branches: [ main ]
   workflow_dispatch:
-
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
+    inputs:
+      deploy_message:
+        description: 'Wiadomość opisująca deployment'
+        required: true
+        default: 'Manual deployment'
 
 jobs:
-  # Single deploy job since we're just deploying
   deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Set up Node
-        uses: actions/setup-node@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Echo deploy message
+        run: echo "Deploying with message - ${{ github.event.inputs.deploy_message || 'Push based deployment' }}"
+      
+      - name: FTP Deploy
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
-          node-version: '18'
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v3
+          server: h22.seohost.pl
+          username: srv41873
+          password: ${{ secrets.FTP_PASSWORD }}
+          server-dir: /domains/tatrzanski-quiz.pnytko.pl/public_html/
+          dangerous-clean-slate: true
