@@ -10,6 +10,11 @@ on:
         required: true
         default: 'Manual deployment'
 
+# Disable GitHub Pages deployment
+permissions:
+  contents: read
+  pages: none
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -18,7 +23,7 @@ jobs:
         uses: actions/checkout@v3
       
       - name: Echo deploy message
-        run: echo "Deploying with message - ${{ github.event.inputs.deploy_message || 'Push based deployment' }}"
+        run: echo "Deploying to tatrzanski-quiz.pnytko.pl"
       
       - name: List files to deploy
         run: |
