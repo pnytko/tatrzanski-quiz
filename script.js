@@ -57,7 +57,7 @@ function showQuestion(questionIndex) {
 
     quizContainer.innerHTML = `
         <div class="question">${questionData.question}</div>
-        ${questionData.image ? `<img src="${questionData.image}" alt="Quiz image">` : ''}
+        ${questionData.image ? `<img src="${questionData.image}" alt="Quiz image" draggable="false" oncontextmenu="return false">` : ''}
         <div class="answers">
             ${shuffledAnswers.map(answer => `
                 <label>
@@ -67,6 +67,14 @@ function showQuestion(questionIndex) {
             `).join('')}
         </div>
     `;
+
+    // Dodaj obsługę zdarzeń dla zdjęcia
+    const img = quizContainer.querySelector('img');
+    if (img) {
+        img.addEventListener('dragstart', e => e.preventDefault());
+        img.addEventListener('mousedown', e => e.preventDefault());
+    }
+
     answered = false;
     nextButton.style.display = 'none'; // Ukrywa przycisk "Następne pytanie" do momentu udzielenia odpowiedzi
 }

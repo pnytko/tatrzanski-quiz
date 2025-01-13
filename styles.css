@@ -73,4 +73,10 @@ h1, h2, .question {
     height: auto;
     border-radius: 8px;
     margin: 15px 0;
+    user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    pointer-events: none;
 }
