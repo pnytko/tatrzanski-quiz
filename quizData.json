@@ -99,44 +99,50 @@
         "image": "img/chata-zamkowskiego.jpg"
     },
     {
-        "question": "Pytanie 1",
-        "a": "a",
-        "b": "b",
-        "c": "c",
-        "d": "d",
-        "correct": "a"
+        "question": "Gdzie znajduje się ta nietypowa rzeźba?",
+        "a": "Tatrzański cmentarz symboliczny",
+        "b": "Maksymilianka",
+        "c": "Hrebeniok",
+        "d": "Gubałówka",
+        "correct": "b",
+        "image": "img/maksymilianka.jpg"
     },
     {
-        "question": "Pytanie 2",
-        "a": "a",
-        "b": "b",
-        "c": "c",
-        "d": "d",
-        "correct": "b"
+        "question": "Jak nazywa się to wzniesienie?",
+        "a": "Królewski Nos",
+        "b": "Jaszczerzycka Kopa",
+        "c": "Osterwa",
+        "d": "Skrajne Solisko",
+        "correct": "a",
+        "image": "img/krolewski-nos.jpg"
     },
     {
-        "question": "Pytanie 3",
-        "a": "a",
-        "b": "b",
-        "c": "c",
-        "d": "d",
-        "correct": "c"
+        "question": "Jak nazywa się szczyt w centrum zdjęcia?",
+        "a": "Gerlach",
+        "b": "Sławskowski Szczyt",
+        "c": "Kończysta",
+        "d": "Krywań",
+        "correct": "c",
+        "image": "img/konczysta-z-drogi-wolnosci.jpg"
+
     },
     {
-        "question": "Pytanie 4",
-        "a": "a",
-        "b": "b",
-        "c": "c",
-        "d": "d",
-        "correct": "d"
+        "question": "Jak nazywa się szczyt na zdjęciu?",
+        "a": "Gerlach",
+        "b": "Sławskowski Szczyt",
+        "c": "Kończysta",
+        "d": "Krywań",
+        "correct": "img/widok-na-krywan.jpg"
     },
     {
-        "question": "Pytanie 5",
-        "a": "a",
-        "b": "b",
-        "c": "c",
-        "d": "d",
-        "correct": "a"
+        "question": "Jak nazywa się to schronisko?",
+        "a": "Chata Terryego",
+        "b": "Chata Zamkowskiego",
+        "c": "Zbójnicka Chata",
+        "d": "Śląski Dom",
+        "correct": "a",
+        "image": "img/chata-terryego-latem.jpg"
+
     },
     {
         "question": "Pytanie 6",
