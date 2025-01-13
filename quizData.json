@@ -132,7 +132,7 @@
         "b": "Sławskowski Szczyt",
         "c": "Kończysta",
         "d": "Krywań",
-        "correct": "img/widok-na-krywan.jpg"
+        "image": "img/widok-na-krywan.jpg"
     },
     {
         "question": "Jak nazywa się to schronisko?",
@@ -199,67 +199,75 @@
         "image": "/img/wodospad-olbrzymi.jpg"
     },
     {
-        "question": "Pytanie 12",
-        "a": "a",
-        "b": "b",
-        "c": "c",
-        "d": "d",
-        "correct": "d"
+        "question": "Jak nazywa się ten wodospad?",
+        "a": "Wodospad Łomnicki",
+        "b": "Wodospad Miedziany",
+        "c": "Wieczny Deszcz",
+        "d": "Złota Siklawa",
+        "correct": "d",
+        "image": "img/zlota-siklawa.jpg"
     },
     {
-        "question": "Pytanie 13",
-        "a": "a",
-        "b": "b",
-        "c": "c",
-        "d": "d",
-        "correct": "a"
+        "question": "Jak nazywa się to jezioro?",
+        "a": "Mały Stawy Spiski",
+        "b": "Popradzki Staw",
+        "c": "Długi Wielicki Staw",
+        "d": "Pośredni Staw Spiski",
+        "correct": "a",
+        "image": "img/maly-staw-spiski.jpg"
     },
     {
-        "question": "Pytanie 14",
-        "a": "a",
-        "b": "b",
-        "c": "c",
-        "d": "d",
-        "correct": "b"
+        "question": "Z pod jakiego budynku zostało wykonane te zdjęcie?",
+        "a": "Chata Zamkovska",
+        "b": "Chata Zamkovskyego",
+        "c": "Chata Bilika",
+        "d": "Chata Łukasiewicza",
+        "correct": "c",
+        "image": "img/lomnica-z-bilikovej-chaty.jpg"
     },
     {
-        "question": "Pytanie 15",
-        "a": "a",
-        "b": "b",
-        "c": "c",
-        "d": "d",
-        "correct": "c"
+        "question": "Jak nazywa się ta roślina?",
+        "a": "Rdest Wężownik",
+        "b": "Szarotka Alpejska",
+        "c": "Rojnik Górski",
+        "d": "Rdest Łomnicki",
+        "correct": "c",
+        "image": "img/rdest-wezownik.jpg"
     },
     {
-        "question": "Pytanie 16",
-        "a": "a",
-        "b": "b",
-        "c": "c",
-        "d": "d",
-        "correct": "d"
+        "question": "Jaka część Tatr jest widoczna na zdjęciu?",
+        "a": "Tatry Zachodnie",
+        "b": "Tatry Wysokie",
+        "c": "Tatry Bielskie",
+        "d": "Tatry Choczańskie",
+        "correct": "a",
+        "image": "img/droga-przez-jurgow.jpg"
     },
     {
-        "question": "Pytanie 17",
-        "a": "a",
-        "b": "b",
-        "c": "c",
-        "d": "d",
-        "correct": "a"
+        "question": "Gdzie znajduje się ta charakterystyczna droga?",
+        "a": "Szczyrbskie Jezioro",
+        "b": "Stary Smokowiec",
+        "c": "Tatrzańska Łomnica",
+        "d": "Tatrzańska Jaworzynka",
+        "correct": "a",
+        "image": "img/droga-strbskie-jezioro.jpg"
     },
     {
-        "question": "Pytanie 18",
-        "a": "a",
-        "b": "b",
-        "c": "c",
-        "d": "d",
-        "correct": "b"
+        "question": "Jak nazywa się to schronisko?",
+        "a": "Schronisko nad Popradzkim Stawem",
+        "b": "Schronisko pod Szarotką",
+        "c": "Chata Zamkowskiego",
+        "d": "Chata Bilika",
+        "correct": "a",
+        "image": "img/schronisko-nad-popradzkiem-stawem.jpg"
     },
     {
-        "question": "Pytanie 19",
-        "a": "a",
-        "b": "b",
-        "c": "c",
-        "d": "d",
-        "correct": "c"
+        "question": "Do jakiej doliny prowadzi to charakterystyczne zejście ze szlaku?",
+        "a": "Dolina Małej Zimnej Wody",
+        "b": "Dolina Czarna Jaworowa",
+        "c": "Dolina Rybiego Potoku",
+        "d": "Dolina Złomisk",
+        "correct": "d",
+        "image": "img/wejscie-do-doliny-zlomisk.jpg"
     }
 ]
