@@ -23,7 +23,8 @@ function loadQuizData() {
     fetch('quizData.json')
         .then(response => response.json())
         .then(data => {
-            quizData = shuffleArray(data); // Wymieszaj pytania przed pokazaniem
+            const shuffledData = shuffleArray([...data]); // Wymieszaj pytania przed pokazaniem
+            quizData = shuffledData.slice(0, 10); // Wybierz pierwsze 10 pytań
             showQuestion(currentQuestion);
         })
         .catch(error => {
@@ -37,31 +38,33 @@ fetch('quizData.json')
     .then(response => response.json())
     .then(data => {
         const welcomeText = document.querySelector('#welcome p');
-        welcomeText.textContent = `Baza tatrzańskiego quizu zawiera obecnie ${data.length} pytań. Sprawdź swoją wiedzę o Tatrach!`;
+        welcomeText.textContent = `Baza tatrzańskiego quizu zawiera obecnie ${data.length} pytań. Test składa się z 10 losowo wybranych pytań. Sprawdź swoją wiedzę o Tatrach!`;
     });
 
 function showQuestion(questionIndex) {
     const questionData = quizData[questionIndex];
+    
+    // Przygotuj tablicę odpowiedzi do wymieszania
+    const answers = [
+        { key: 'a', text: questionData.a },
+        { key: 'b', text: questionData.b },
+        { key: 'c', text: questionData.c },
+        { key: 'd', text: questionData.d }
+    ];
+    
+    // Wymieszaj odpowiedzi
+    const shuffledAnswers = shuffleArray([...answers]);
+
     quizContainer.innerHTML = `
         <div class="question">${questionData.question}</div>
         ${questionData.image ? `<img src="${questionData.image}" alt="Quiz image">` : ''}
         <div class="answers">
-            <label>
-                <input type="radio" name="answer" value="a">
-                ${questionData.a}
-            </label><br>
-            <label>
-                <input type="radio" name="answer" value="b">
-                ${questionData.b}
-            </label><br>
-            <label>
-                <input type="radio" name="answer" value="c">
-                ${questionData.c}
-            </label><br>
-            <label>
-                <input type="radio" name="answer" value="d">
-                ${questionData.d}
-            </label>
+            ${shuffledAnswers.map(answer => `
+                <label>
+                    <input type="radio" name="answer" value="${answer.key}">
+                    ${answer.text}
+                </label><br>
+            `).join('')}
         </div>
     `;
     answered = false;

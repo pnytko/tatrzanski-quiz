@@ -1,49 +1,50 @@
 body {
-    background-image: url('background.jpg'); /* Ścieżka do obrazka tła */
-    background-size: cover; /* Ustawienie, aby obrazek pokrywał całe tło */
-    background-position: center; /* Wyśrodkowanie obrazka */
-    background-repeat: no-repeat; /* Wyłączenie powtarzania obrazka */
-    background-attachment: fixed; /* Utrzymanie tła w miejscu podczas przewijania */
+    background-image: url('background.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
     margin: 0;
     padding: 0;
-    height: 100vh; /* Wysokość tła dopasowana do wysokości okna przeglądarki */
-    font-family: Arial, sans-serif; /* Opcjonalnie: zdefiniuj font dla całej strony */
-    overflow: hidden; /* Ukrywa pasek przewijania */
+    height: 100vh; 
+    font-family: Arial, sans-serif; 
+    overflow: hidden; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .quiz-container {
-    background-color: rgba(255, 255, 255, 0.7); /* Białe tło z 10% przezroczystości */
-    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.7); 
+    padding: 15px;
     border-radius: 8px;
-    max-width: 600px;
-    margin: auto;
+    max-width: 540px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-    margin-top: 50px; /* Opcjonalnie: odstęp od góry */
-    user-select: none; /* Wyłącza możliwość zaznaczania tekstu w całym kontenerze quizu */
+    user-select: none;
 }
 
 .question {
     font-weight: bold;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 
 .answers {
-    margin-bottom: 15px; /* Dodanie odstępu pod odpowiedziami */
+    margin-bottom: 10px; 
 }
 
 .answers label {
     display: block;
-    margin: 5px 0;
+    margin: 3px 0;
 }
 
 button {
-    padding: 10px 20px;
+    padding: 8px 16px;
     background-color: #007BFF;
     color: white;
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 button:hover {
@@ -51,21 +52,21 @@ button:hover {
 }
 
 #start, #next, #retry {
-    display: block; /* Ustawia przyciski jako blokowe elementy */
-    margin: 20px auto; /* Wyśrodkowuje przyciski w poziomie */
+    display: block; 
+    margin: 15px auto; 
 }
 
 h1, h2, .question {
-    text-align: center; /* Wyśrodkowuje tekst wewnątrz elementów */
+    text-align: center; 
 }
 
 .center-text {
-    text-align: center; /* Wyśrodkowuje tekst w elemencie */
+    text-align: center; 
 }
 
 .quiz-container img {
     max-width: 100%;
     height: auto;
     border-radius: 8px;
-    margin: 20px 0;
+    margin: 15px 0;
 }
