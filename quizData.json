@@ -129,9 +129,10 @@
     {
         "question": "Jak nazywa się szczyt na zdjęciu?",
         "a": "Gerlach",
-        "b": "Sławskowski Szczyt",
+        "b": "Sławkowski Szczyt",
         "c": "Kończysta",
         "d": "Krywań",
+        "correct": "d",
         "image": "img/widok-na-krywan.jpg"
     },
     {
