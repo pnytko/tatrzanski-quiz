@@ -190,12 +190,13 @@
         "image": "img/nad-lomnickim-stawem.jpg"
     },
     {
-        "question": "Pytanie 11",
-        "a": "a",
-        "b": "b",
-        "c": "c",
-        "d": "d",
-        "correct": "c"
+        "question": "Jak nazywa się ten wodospad?",
+        "a": "Złota Siklawa",
+        "b": "Wodospad Olbrzymi",
+        "c": "Wieczny Deszcz",
+        "d": "Wodospad Łomnicki",
+        "correct": "b",
+        "image": "/img/wodospad-olbrzymi.jpg"
     },
     {
         "question": "Pytanie 12",
