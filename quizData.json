@@ -97,5 +97,157 @@
         "d": "Schronisko Murowaniec",
         "correct": "b",
         "image": "img/chata-zamkowskiego.jpg"
+    },
+    {
+        "question": "Pytanie 1",
+        "a": "a",
+        "b": "b",
+        "c": "c",
+        "d": "d",
+        "correct": "a"
+    },
+    {
+        "question": "Pytanie 2",
+        "a": "a",
+        "b": "b",
+        "c": "c",
+        "d": "d",
+        "correct": "b"
+    },
+    {
+        "question": "Pytanie 3",
+        "a": "a",
+        "b": "b",
+        "c": "c",
+        "d": "d",
+        "correct": "c"
+    },
+    {
+        "question": "Pytanie 4",
+        "a": "a",
+        "b": "b",
+        "c": "c",
+        "d": "d",
+        "correct": "d"
+    },
+    {
+        "question": "Pytanie 5",
+        "a": "a",
+        "b": "b",
+        "c": "c",
+        "d": "d",
+        "correct": "a"
+    },
+    {
+        "question": "Pytanie 6",
+        "a": "a",
+        "b": "b",
+        "c": "c",
+        "d": "d",
+        "correct": "b"
+    },
+    {
+        "question": "Pytanie 7",
+        "a": "a",
+        "b": "b",
+        "c": "c",
+        "d": "d",
+        "correct": "c"
+    },
+    {
+        "question": "Pytanie 8",
+        "a": "a",
+        "b": "b",
+        "c": "c",
+        "d": "d",
+        "correct": "d"
+    },
+    {
+        "question": "Pytanie 9",
+        "a": "a",
+        "b": "b",
+        "c": "c",
+        "d": "d",
+        "correct": "a"
+    },
+    {
+        "question": "Pytanie 10",
+        "a": "a",
+        "b": "b",
+        "c": "c",
+        "d": "d",
+        "correct": "b"
+    },
+    {
+        "question": "Pytanie 11",
+        "a": "a",
+        "b": "b",
+        "c": "c",
+        "d": "d",
+        "correct": "c"
+    },
+    {
+        "question": "Pytanie 12",
+        "a": "a",
+        "b": "b",
+        "c": "c",
+        "d": "d",
+        "correct": "d"
+    },
+    {
+        "question": "Pytanie 13",
+        "a": "a",
+        "b": "b",
+        "c": "c",
+        "d": "d",
+        "correct": "a"
+    },
+    {
+        "question": "Pytanie 14",
+        "a": "a",
+        "b": "b",
+        "c": "c",
+        "d": "d",
+        "correct": "b"
+    },
+    {
+        "question": "Pytanie 15",
+        "a": "a",
+        "b": "b",
+        "c": "c",
+        "d": "d",
+        "correct": "c"
+    },
+    {
+        "question": "Pytanie 16",
+        "a": "a",
+        "b": "b",
+        "c": "c",
+        "d": "d",
+        "correct": "d"
+    },
+    {
+        "question": "Pytanie 17",
+        "a": "a",
+        "b": "b",
+        "c": "c",
+        "d": "d",
+        "correct": "a"
+    },
+    {
+        "question": "Pytanie 18",
+        "a": "a",
+        "b": "b",
+        "c": "c",
+        "d": "d",
+        "correct": "b"
+    },
+    {
+        "question": "Pytanie 19",
+        "a": "a",
+        "b": "b",
+        "c": "c",
+        "d": "d",
+        "correct": "c"
     }
 ]
