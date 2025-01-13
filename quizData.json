@@ -145,44 +145,49 @@
 
     },
     {
-        "question": "Pytanie 6",
-        "a": "a",
-        "b": "b",
-        "c": "c",
-        "d": "d",
-        "correct": "b"
+        "question": "Jak nazywa się to jezioro?",
+        "a": "Hinczowy Staw",
+        "b": "Jamski Staw",
+        "c": "Czarny Staw pod Rysami",
+        "d": "Pośredni Staw Spiski",
+        "correct": "b",
+        "image": "img/posredni-staw-spiski.jpg"
     },
     {
-        "question": "Pytanie 7",
-        "a": "a",
-        "b": "b",
-        "c": "c",
-        "d": "d",
-        "correct": "c"
+        "question": "Jak nazywa się ta przełęcz?",
+        "a": "Lodowa Przełęcz",
+        "b": "Przełęcz Zawrat",
+        "c": "Polski Grzebień",
+        "d": "Łomnicka Przełęcz",
+        "correct": "a",
+        "image": "img/lodowa-przelecz.jpg"
     },
     {
-        "question": "Pytanie 8",
-        "a": "a",
-        "b": "b",
-        "c": "c",
-        "d": "d",
-        "correct": "d"
+        "question": "Dokąd prowadzi ta droga?",
+        "a": "Kuźnice",
+        "b": "Tatrzańska Jaworzynka",
+        "c": "Stary Smokowiec",
+        "d": "Gubałówka",
+        "correct": "a",
+        "image": "img/droga-do-kuznice-noca.jpg"
     },
     {
-        "question": "Pytanie 9",
-        "a": "a",
-        "b": "b",
-        "c": "c",
-        "d": "d",
-        "correct": "a"
+        "question": "Co to za dolina?",
+        "a": "Dolina Mięguszowiecka",
+        "b": "Dolina Chochołowska",
+        "c": "Dolina Gąsienicowa",
+        "d": "Dolina Rybiego Potoku",
+        "correct": "c",
+        "image": "img/dolina-gasienicowa-zima.jpg"
     },
     {
-        "question": "Pytanie 10",
-        "a": "a",
-        "b": "b",
-        "c": "c",
-        "d": "d",
-        "correct": "b"
+        "question": "Jak się nazywa to jezioro?",
+        "a": "Jamski Staw",
+        "b": "Łomnicki Staw",
+        "c": "Mały Hinczowy Staw",
+        "d": "Czarny Staw",
+        "correct": "b",
+        "image": "img/nad-lomnickim-stawem.jpg"
     },
     {
         "question": "Pytanie 11",
