@@ -270,5 +270,95 @@
         "d": "Dolina Złomisk",
         "correct": "d",
         "image": "img/wejscie-do-doliny-zlomisk.jpg"
+    },
+    {
+        "question": "Jak nazywa się grań znajdująca się po lewej stronie?",
+        "a": "Grań Solisk",
+        "b": "Grań Szatanów",
+        "c": "Grań Fajek",
+        "d": "Grań Martina",
+        "correct": "a",
+        "image": "img/gran-solisk-i-skrajna-baszta.jpg"
+    },
+    {
+        "question": "Do jakiej doliny prowadzi ta charakterystyczna droga?",
+        "a": "Dolina Mięguszowiecka",
+        "b": "Dolina Jaworowa",
+        "c": "Dolina Kaczarska",
+        "d": "Dolina Złomisk",
+        "correct": "d",
+        "image": "img/zmarzly-potok.jpg"
+    },
+    {
+        "question": "Jak nazywa się ten szczyt o stożkowym kszałcie?",
+        "a": "Ganek",
+        "b": "Wysoka",
+        "c": "Kończysta",
+        "d": "Dzika Turnia",
+        "correct": "b",
+        "image": "img/wysoka-z-doliny-zlomisk.jpg"
+    },
+    {
+        "question": "Co to za jezioro?",
+        "a": "Popradzki Staw",
+        "b": "Hinczowy Staw",
+        "c": "Zmarzły Staw Mięguszowiecki",
+        "d": "Smoczy Staw",
+        "correct": "c",
+        "image": "img/zmarzly-staw-mieguszowiecki-z-rumowiska.jpg"
+    },
+    {
+        "question": "Najwyższy szczyt na tym zdjęciu to?",
+        "a": "Łomnica",
+        "b": "Kołowy Szczyt",
+        "c": "Kieżmarski Szczyt",
+        "d": "Pośrednia Grań",
+        "correct": "c",
+        "image": "img/kiezmarski-i-huncowski-szczyt.jpg"
+    },
+    {
+        "question": "Sczyt z pierwszego planu to?",
+        "a": "Jastrzębia Turnia",
+        "b": "Kozia Turnia",
+        "c": "Czarny Szczyt",
+        "d": "Jagnięcy Szczyt",
+        "correct": "b",
+        "image": "img/kozia-turnia-z-zoltego-szlaku.jpg"
+    },
+    {
+        "question": "Co to za jezioro?",
+        "a": "Zielony Staw Kieżmarski",
+        "b": "Wielki Staw Spiski",
+        "c": "Wielicki Staw",
+        "d": "Kołowy Staw",
+        "correct": "a",
+        "image": "img/zielony-staw-kiezmarski.jpg"
+    },
+    {
+        "question": "Gdzie położony jest ten eksponowany fragment?",
+        "a": "Droga na Polski Grzebień",
+        "b": "Wyżnie Strzeleckie Spady",
+        "c": "Jakubowe Spady",
+        "d": "Wyżnie Dzikie Spady",
+        "correct": "c",
+        "image": "img/jakubowe-spady-pokonane.jpg"
+    },
+    {
+        "question": "Ten wierzchołek to: ",
+        "a": "Baranie Rogi",
+        "b": "Kołowy Szczyt",
+        "c": "Kieżmarski Szczyt",
+        "d": "Kończysta",
+        "correct": "b",
+        "image": "img/kolowy-szczyt.jpg"
+    },
+    {
+        "question": "Ten szczyt ma wysokość?",
+        "a": "2538 m.n.p.m.",
+        "b": "2452 m.n.p.m.",
+        "c": "2546 m.n.p.m.",
+        "d": "2550 m.n.p.m.",
+        "correct": "b",
+        "image": "img/slawkowski-szczyt-zima.jpg"
     }
 ]

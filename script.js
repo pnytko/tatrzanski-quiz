@@ -25,6 +25,9 @@ function loadQuizData() {
         .then(data => {
             const shuffledData = shuffleArray([...data]); // Wymieszaj pytania przed pokazaniem
             quizData = shuffledData.slice(0, 10); // Wybierz pierwsze 10 pytań
+            currentQuestion = 0;
+            score = 0;
+            answered = false;
             showQuestion(currentQuestion);
         })
         .catch(error => {
@@ -52,7 +55,7 @@ function showQuestion(questionIndex) {
         { key: 'd', text: questionData.d }
     ];
     
-    // Wymieszaj odpowiedzi
+    // Wymieszaj odpowiedzi - zawsze tworzymy nową tablicę aby nie modyfikować oryginalnej
     const shuffledAnswers = shuffleArray([...answers]);
 
     quizContainer.innerHTML = `
@@ -126,11 +129,9 @@ function showResults() {
     `;
 
     document.getElementById('retry').addEventListener('click', () => {
-        currentQuestion = 0;
-        score = 0;
-        showQuestion(currentQuestion);
+        // Załaduj quiz ponownie, aby mieć nową kolejność pytań i odpowiedzi
+        loadQuizData();
         quizContainer.style.display = 'block';
-        nextButton.style.display = 'block';
         resultsContainer.innerHTML = '';
     });
 }
