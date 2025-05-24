@@ -360,5 +360,23 @@
         "d": "2550 m.n.p.m.",
         "correct": "b",
         "image": "img/slawkowski-szczyt-zima.jpg"
+    },
+    {
+        "question": "Jak nazywa się budynek w oddali? ",
+        "a": "Śląski Dom",
+        "b": "Chata Zamkowskiego",
+        "c": "Zbójnicka Chata",
+        "d": "Chata Bilika",
+        "correct": "a",
+        "image": "img/slaski-dom-z-oddali.jpg"
+    },
+    {
+        "question": "Jak nazywa się jezioro na zdjęciu? ",
+        "a": "Popradzki Staw",
+        "b": "Kołowy Staw",
+        "c": "Zmarzły Staw Mięguszowiecki",
+        "d": "Morskie Oko",
+        "correct": "a",
+        "image": "img/kolowy-staw-z-kolowego-szczytu.jpg"
     }
 ]
