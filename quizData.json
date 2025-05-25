@@ -197,7 +197,7 @@
         "c": "Wieczny Deszcz",
         "d": "Wodospad Łomnicki",
         "correct": "b",
-        "image": "/img/wodospad-olbrzymi.jpg"
+        "image": "img/wodospad-olbrzymi.jpg"
     },
     {
         "question": "Jak nazywa się ten wodospad?",
@@ -377,7 +377,7 @@
         "c": "Zmarzły Staw Mięguszowiecki",
         "d": "Morskie Oko",
         "correct": "b",
-        "image": "img/kolowy-staw-z-kolowego-szczytu.jpg"
+        "image": "img/kolowy-staw-z-koloweg-szczytu.jpg"
     },
     {
         "question": "Jak nazywa się ten lodospad w Dolinie Zbójnickiej? ",
@@ -431,7 +431,7 @@
         "c": "Polana Złomisk",
         "d": "Hala Gąsienicowa",
         "correct": "a",
-        "image": "img/polana-chochołowska.jpg"
+        "image": "img/polana-chocholowska.jpg"
     },
     {
         "question": "Jaki szczyt znajduje się na pierwszym planie? ",
