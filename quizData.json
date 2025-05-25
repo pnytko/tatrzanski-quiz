@@ -376,7 +376,79 @@
         "b": "Kołowy Staw",
         "c": "Zmarzły Staw Mięguszowiecki",
         "d": "Morskie Oko",
-        "correct": "a",
+        "correct": "b",
         "image": "img/kolowy-staw-z-kolowego-szczytu.jpg"
+    },
+    {
+        "question": "Jak nazywa się ten lodospad w Dolinie Zbójnickiej? ",
+        "a": "Wodospad Łomnicki",
+        "b": "Wodospad Miedziany",
+        "c": "Zahradky",
+        "d": "Złota Siklawa",
+        "correct": "b",
+        "image": "img/lodospad-zahradky.jpg"
+    },
+    {
+        "question": "Co to za szczyt? ",
+        "a": "Mała Wysoka",
+        "b": "Dzika Turnia",
+        "c": "Mały Jaworowy Szczyt",
+        "d": "Świstowy Szczyt",
+        "correct": "d",
+        "image": "img/mala-wysoka-zima.jpg"
+    },
+    {
+        "question": "Co to za szczyt? ",
+        "a": "Jaworowy Szczyt",
+        "b": "Pośrednia Grań",
+        "c": "Staroleśny Szczyt",
+        "d": "Wysoka",
+        "correct": "a",
+        "image": "img/jaworowy-szczyt.jpg"
+    },
+    {
+        "question": "Wnętrze jakiego schroniska widoczne jest na zdjęciu? ",
+        "a": "Schronisko nad Popradzkim Stawem",
+        "b": "Chata Zamkowskiego",
+        "c": "Zbójnicka Chata",
+        "d": "Chata Bilika",
+        "correct": "c",
+        "image": "img/wnetrze-zbojnickiej-chaty-zima.jpg"
+    },
+    {
+        "question": "Najwyższy Szczyt na zdjęciu to? ",
+        "a": "Pośrednia Grań",
+        "b": "Lodowy Szczyt",
+        "c": "Staroleśny Szczyt",
+        "d": "Wysoka",
+        "correct": "a",
+        "image": "img/posrednia-gran-i-zolty-szczyt.jpg"
+    },
+    {
+        "question": "Co to za polana? ",
+        "a": "Polana Chochołowska",
+        "b": "Polana Mięguszowiecka",
+        "c": "Polana Złomisk",
+        "d": "Hala Gąsienicowa",
+        "correct": "a",
+        "image": "img/polana-chochołowska.jpg"
+    },
+    {
+        "question": "Jaki szczyt znajduje się na pierwszym planie? ",
+        "a": "Wołowiec",
+        "b": "Łopata",
+        "c": "Bystra",
+        "d": "Rakoń",
+        "correct": "a",
+        "image": "img/w-strone-wolowca.jpg"
+    },
+    {
+        "question": "Ośnieżona grań na zdjęciu to grań? ",
+        "a": "Grań Baszt",
+        "b": "Grań Rohaczy",
+        "c": "Grań Fajek",
+        "d": "Grań Martina",
+        "correct": "b",
+        "image": "img/towarzystwo-na-rakoniu.jpg"
     }
 ]
