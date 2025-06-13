@@ -10,7 +10,7 @@
     },
     {
         "question": "Jak nazywa się grań znajdująca się po lewej stronie?",
-        "a": "Grań Soliska",
+        "a": "Grań Solisk",
         "b": "Grań Baszt",
         "c": "Grań Hrubego",
         "d": "Jamska Grań",
@@ -90,7 +90,7 @@
         "image": "img/zielony-staw-kiezmarski.jpg"
     },
     {
-        "question": "Jak nazywa się to wzniesienie?",
+        "question": "Jak nazywa się to wzniesienie w drodze na Sławkowski Szczyt?",
         "a": "Królewski Nos",
         "b": "Jaszczerzycka Kopa",
         "c": "Osterwa",
@@ -103,7 +103,7 @@
         "a": "Grań Baszt",
         "b": "Sławkowska Grań",
         "c": "Staroleśna Grań",
-        "d": "Grań Rohaczy",
+        "d": "Kapałkowa Grań",
         "correct": "a",
         "image": "img/gran-baszt-z-koprowego-wierchu.jpg"
     },
@@ -127,9 +127,9 @@
     },
     {
         "question": "Jak nazywa się to jezioro?",
-        "a": "Hinczowy Staw",
-        "b": "Jamski Staw",
-        "c": "Czarny Staw pod Rysami",
+        "a": "Niżni Staw Spiski",
+        "b": "Lodowy Stawek",
+        "c": "Wielki Staw Spiski",
         "d": "Pośredni Staw Spiski",
         "correct": "b",
         "image": "img/posredni-staw-spiski.jpg"
@@ -150,7 +150,7 @@
         "c": "Przełęcz Karb",
         "d": "Przełęcz Zawrat",
         "correct": "a",
-        "image": "img/zleb-do-rumiskiej-przelaczki.jpg"
+        "image": "img/zleb-do-ruminskiej-przelaczki.jpg"
     },
     {
         "question": "Jaka dolina, dostępna żółtym szlakiem z Kuźnic, zawiera stare chaty pasterskie/hutnicze?",
@@ -162,7 +162,7 @@
         "image": "img/chaty-dolina-jaworzynki.jpg"
     },
     {
-        "question": "Jak nazywa się ta przełęcz?",
+        "question": "Jak nazywa się ta przełęcz w Dolinie Pięciu Stawów Spiskich?",
         "a": "Lodowa Przełęcz",
         "b": "Przełęcz Zawrat",
         "c": "Polski Grzebień",
@@ -181,9 +181,9 @@
     },
     {
         "question": "Który szlak jest określany w źródłach jako cechujący się najdłuższą sekwencją łańcuchów w Tatrach?",
-        "a": "Szlak na Gerlach",
-        "b": "Szlak na Rysy",
-        "c": "Szlak na Lodową Przełęcz",
+        "a": "Mięguszowiecka Przełęcz pod Chłopkiem",
+        "b": "Orla Perć",
+        "c": "Grań Rohaczy",
         "d": "Szlak na Czerwoną Ławkę",
         "correct": "c",
         "image": "img/z-czerwonej-lawki.jpg"
@@ -216,7 +216,7 @@
         "image": "img/hrebeniok-turysci.jpg"
     },
     {
-        "question": "Jak nazywa się ta przełęcz?",
+        "question": "Jak nazywa się ta przełęcz u podnóży Kościelca?",
         "a": "Przełęcz Zawrat",
         "b": "Świnicka Przełęcz",
         "c": "Przełęcz Krzyżne",
@@ -225,9 +225,9 @@
         "image": "img/przelecz-karb-zima.jpg"
     },
     {
-        "question": "Co to za jezioro?",
+        "question": "Jak nazywa się to jezioro w Dolinie Złomisk?",
         "a": "Popradzki Staw",
-        "b": "Hinczowy Staw",
+        "b": "Rumanowy Staw",
         "c": "Zmarzły Staw Mięguszowiecki",
         "d": "Smoczy Staw",
         "correct": "c",
@@ -246,9 +246,9 @@
         "question": "Jaka polana w Tatrach Zachodnich charakteryzuje się pasterskimi chatami?",
         "a": "Siwa Polana",
         "b": "Polana Chochołowska",
-        "c": "Polana Huty Chochołowskie",
-        "d": "Polana Trzydniowianka",
-        "correct": "c",
+        "c": "Dolina Starorobociańska",
+        "d": "Dolina Tomanowa",
+        "correct": "b",
         "image": "img/polana-chocholowska.jpg"
     },
     {
@@ -261,13 +261,13 @@
         "image": "img/chata-terryego-latem.jpg"
     },
     {
-        "question": "Jaki kolore szlaku prowadzi ze Starego Smokowca w kierunku Hrebenioka?",
+        "question": "Jaki kolor szlaku prowadzi ze Starego Smokowca w kierunku Hrebenioka?",
         "a": "Czerwonym",
         "b": "Żółtym",
         "c": "Zielonym",
         "d": "Niebieskim",
         "correct": "c",
-        "image": "img/w-kierunku-hrebenioka.jpg"
+        "image": "img/droga-do-hrebenioka.jpg"
     },
     {
         "question": "Jak nazywa się najwyższy wierzchołek Grani Baszt?",
@@ -288,7 +288,7 @@
         "image": "img/wysoka-z-doliny-mieguszowieckiej.jpg"
     },
     {
-        "question": "Gdzie położony jest ten eksponowany fragment?",
+        "question": "Jak nazywa się ten eksponowany fragment prowadzący do Doliny Jastrzębiej?",
         "a": "Droga na Polski Grzebień",
         "b": "Wyżnie Strzeleckie Spady",
         "c": "Jakubowe Spady",
@@ -297,7 +297,7 @@
         "image": "img/jakubowe-spady-pokonane.jpg"
     },
     {
-        "question": "Sczyt z pierwszego planu to?",
+        "question": "Szczyt z pierwszego planu to?",
         "a": "Jastrzębia Turnia",
         "b": "Kozia Turnia",
         "c": "Czarny Szczyt",
@@ -338,7 +338,7 @@
         "b": "Dzika Turnia",
         "c": "Mały Jaworowy Szczyt",
         "d": "Świstowy Szczyt",
-        "correct": "d",
+        "correct": "a",
         "image": "img/mala-wysoka-zima.jpg"
     },
     {
@@ -351,20 +351,12 @@
         "image": "img/wnetrze-zbojnickiej-chaty-zima.jpg"
     },
     {
-        "question": "Jak nazywa się przełęcz położona bezpośrednio pod szczytem Grzesia?",
-        "a": "Przełęcz Grzesia",
-        "b": "Przełęcz pod Grzesiem",
-        "c": "Przełęcz Rakowska",
-        "d": "Przełęcz Wołowcowa",
-        "correct": "b"
-    },
-    {
         "question": "Z jakiej doliny widać ten najwyższy, stożkowy szczyt?",
         "a": "Dolina Złomisk",
         "b": "Dolina Mięguszowiecka",
         "c": "Dolina Staroleśna",
         "d": "Dolina Wielicka",
-        "correct": "b",
+        "correct": "a",
         "image": "img/wysoka-z-doliny-zlomisk.jpg"
     },
     {
@@ -377,9 +369,9 @@
         "image": "img/w-strone-wolowca.jpg"
     },
     {
-        "question": "Jak nazywa się szczyt w centrum zdjęcia?",
+        "question": "Jak nazywa się szczyt po lewej stronie widziany z Drogi Wolności?",
         "a": "Gerlach",
-        "b": "Sławskowski Szczyt",
+        "b": "Sławkowski Szczyt",
         "c": "Kończysta",
         "d": "Krywań",
         "correct": "c",
@@ -419,7 +411,7 @@
         "c": "Niebieskim",
         "d": "Żółtym",
         "correct": "b",
-        "image": "img/mostek-warzchowa-kotlina.jpg"
+        "image": "img/mostek-warzechowa-kotlina.jpg"
     },
     {
         "question": "Jak nazywa się najwyższy szczyt polskich Tatr?",
@@ -449,7 +441,7 @@
         "image": "img/przelecz-miedzy-kopami.jpg"
     },
     {
-        "question": "Charakterystyczna, ośnieżona grań na zdjęciu po której wiedzie szlak turystyczny to:? ",
+        "question": "Charakterystyczna, ośnieżona grań na zdjęciu po której wiedzie szlak turystyczny to:",
         "a": "Koperszadzka Grań",
         "b": "Grań Rohaczy",
         "c": "Szpiglasowa Grań",
@@ -498,8 +490,8 @@
         "a": "Rdest Wężownik",
         "b": "Szarotka Alpejska",
         "c": "Rojnik Górski",
-        "d": "Rdest Łomnicki",
-        "correct": "c",
+        "d": "Sasanka Alpejska",
+        "correct": "a",
         "image": "img/rdest-wezownik.jpg"
     },
     {
@@ -521,7 +513,7 @@
         "image": "img/maksymilianka.jpg"
     },
     {
-        "question": "Co to za schronisko (niegdyś było one nazywane Trupiarnią)?",
+        "question": "Schronisko, niegdyś nazywane \"trupiarnią\" to:",
         "a": "Zbójnicka Chata",
         "b": "Chata Terryego",
         "c": "Waga pod Rysami",
@@ -530,8 +522,8 @@
         "image": "img/zbojnicka-chata.jpg"
     },
     {
-        "question": "Jak nazywa się to jezioro?",
-        "a": "Mały Stawy Spiski",
+        "question": "Jak nazywa się to jeziorko w pobliżu Chaty Terryego?",
+        "a": "Mały Staw Spiski",
         "b": "Popradzki Staw",
         "c": "Długi Wielicki Staw",
         "d": "Pośredni Staw Spiski",
@@ -545,7 +537,7 @@
         "c": "2076",
         "d": "2180",
         "correct": "d",
-        "image": "img/wyżnia-koprowa-przełęcz.jpg"
+        "image": "img/wyznia-koprowa-przełecz.jpg"
     },
     {
         "question": "Jaki szczyt, widoczny ze Strzeleckich Pól, jest określany w źródłach jako najtrudniej dostępny w Tatrach?",
