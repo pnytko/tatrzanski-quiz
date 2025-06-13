@@ -131,7 +131,7 @@
         "b": "Lodowy Stawek",
         "c": "Wielki Staw Spiski",
         "d": "Pośredni Staw Spiski",
-        "correct": "b",
+        "correct": "d",
         "image": "img/posredni-staw-spiski.jpg"
     },
     {
@@ -180,12 +180,12 @@
         "image": "img/slaski-dom-z-oddali.jpg"
     },
     {
-        "question": "Który szlak jest określany w źródłach jako cechujący się najdłuższą sekwencją łańcuchów w Tatrach?",
+        "question": "Który szlak jest określany jako cechujący się najdłuższą sekwencją łańcuchów w Tatrach?",
         "a": "Mięguszowiecka Przełęcz pod Chłopkiem",
         "b": "Orla Perć",
         "c": "Grań Rohaczy",
         "d": "Szlak na Czerwoną Ławkę",
-        "correct": "c",
+        "correct": "d",
         "image": "img/z-czerwonej-lawki.jpg"
     },
     {
@@ -410,7 +410,7 @@
         "b": "Zielonym",
         "c": "Niebieskim",
         "d": "Żółtym",
-        "correct": "b",
+        "correct": "c",
         "image": "img/mostek-warzechowa-kotlina.jpg"
     },
     {
@@ -433,7 +433,7 @@
     },
     {
         "question": "Jakimi szlakiem prócz Boczaniem można dotrzeć na tą przełęcz od Kuźnic?",
-        "a": "Doliną Jaworzynski",
+        "a": "Doliną Jaworzynki",
         "b": "Przez Świstówkę",
         "c": "Doliną Roztoki",
         "d": "Doliną Olczyską",
@@ -540,7 +540,7 @@
         "image": "img/wyznia-koprowa-przelecz.jpg"
     },
     {
-        "question": "Jaki szczyt, widoczny ze Strzeleckich Pól, jest określany w źródłach jako najtrudniej dostępny w Tatrach?",
+        "question": "Jaki szczyt, widoczny ze Strzeleckich Pól, jest określany jako najtrudniej dostępny w Tatrach?",
         "a": "Dzika Turnia",
         "b": "Ostry Szczyt",
         "c": "Żabi Koń",
