@@ -1,239 +1,39 @@
 [
     {
-        "question": "Jak nazywa się najwyższy szczyt polskich Tatr?",
-        "a": "Rysy",
-        "b": "Kasprowy Wierch",
-        "c": "Giewont",
-        "d": "Świnica",
+        "question": "Co to za szczyt? ",
+        "a": "Jaworowy Szczyt",
+        "b": "Żołty Szczyt",
+        "c": "Staroleśny Szczyt",
+        "d": "Ostry Szczyt",
         "correct": "a",
-        "image": "img/kotlinka-pod-waga.jpg"
+        "image": "img/jaworowy-szczyt.jpg"
     },
     {
-        "question": "Jak nazywa się ten budynek?",
-        "a": "Śląski Dom",
-        "b": "Chata Zamkowskiego",
-        "c": "Hrebeniok",
-        "d": "Chata Bilika",
-        "correct": "c",
-        "image": "img/hrebeniok-turysci.jpg"
-    },
-    {
-        "question": "Co to za schronisko?",
-        "a": "Zbójnicka Chata",
-        "b": "Chata Terryego",
-        "c": "Waga pod Rysami",
-        "d": "Schronisko na Solisku",
+        "question": "Jak nazywa się grań znajdująca się po lewej stronie?",
+        "a": "Grań Soliska",
+        "b": "Grań Baszt",
+        "c": "Grań Hrubego",
+        "d": "Jamska Grań",
         "correct": "a",
-        "image": "img/zbojnicka-chata.jpg"
+        "image": "img/gran-solisk-i-skrajna-baszta.jpg"
     },
     {
-        "question": "Jak nazywa się to jezioro?",
-        "a": "Popradzki Staw",
-        "b": "Duży Hińczowy Staw",
-        "c": "Czarny Staw pod Rysami",
-        "d": "Wielki Staw w Dolinie Pięciu Stawów",
+        "question": "Jaki staw znajduje się na wyższym piętrze Doliny Wielickiej w okolicy Wyżniego Wielickiego Ogrodu?",
+        "a": "Wielicki Staw",
+        "b": "Długi Staw Wielicki",
+        "c": "Batyżowiecki Staw",
+        "d": "Zmarzły Staw Pod Polskim Grzebieniem",
         "correct": "b",
-        "image": "img/duzy-hinczowy-staw.jpg"
+        "image": "img/dlugi-wielicki-staw.jpg"
     },
     {
-        "question": "Jak nazywa się ta przełęcz?",
-        "a": "Przełęcz Zawrat",
-        "b": "Świnicka Przełęcz",
-        "c": "Przełęcz Krzyżne",
-        "d": "Przełęcz Karb",
-        "correct": "d",
-        "image": "img/przelecz-karb-zima.jpg"
-    },
-    {
-        "question": "Co to za budynek?",
-        "a": "Górna stacja kolejki na Łomnicę",
-        "b": "Dolna stacja kolejki na Łomnicę",
-        "c": "Stacja kolejki na Solisku",
-        "d": "Wyciąg na Kasprowy Wierch",
+        "question": "Jaki szczyt należący do Wielkiej Korony Tatr znajduje się na tym zdjęciu? ",
+        "a": "Pośrednia Grań",
+        "b": "Żołty Szczyt",
+        "c": "Staroleśny Szczyt",
+        "d": "Lodowy Szczyt",
         "correct": "a",
-        "image": "img/gorna-stacja-kolejki-lomnica.jpg"
-    },
-    {
-        "question": "Jak nazywa się grań widoczna na zdjęciu?",
-        "a": "Grań Baszt",
-        "b": "Sławkowska Grań",
-        "c": "Staroleśna Grań",
-        "d": "Grań Rohaczy",
-        "correct": "a",
-        "image": "img/gran-baszt-z-koprowego-wierchu.jpg"
-    },
-    {
-        "question": "Jak nazywa się dolina widoczna na zdjęciu?",
-        "a": "Dolina Małej Zimnej Wody",
-        "b": "Dolina Rybiego Potoku",
-        "c": "Dolina Złomisk",
-        "d": "Dolina Czarna Jaworowa",
-        "correct": "c",
-        "image": "img/panorama-dolina-zlomisk.jpg"
-    },
-    {
-        "question": "Na jakim szczycie znajduję się ta charaketerystyczna skała?",
-        "a": "Staroleśny Szczyt",
-        "b": "Pośrednia Grań",
-        "c": "Baranie Rogi",
-        "d": "Kończysta",
-        "correct": "d",
-        "image": "img/kowadelko-na-konczystej.jpg"
-    },
-    {
-        "question": "Jak nazywa się ta dolina?",
-        "a": "Dolina Mięguszowiecka",
-        "b": "Dolina Staroleśna",
-        "c": "Dolina Batyżowiecka",
-        "d": "Dolina Kieżmarska",
-        "correct": "c",
-        "image": "img/gerlach-od-doliny-batyzowieckiej.jpg"
-    },
-    {
-        "question": "Jak nazywa się to schronisko?",
-        "a": "Schronisko pod Rysami",
-        "b": "Chata Zamkowskiego",
-        "c": "Schronisko w Roztoce",
-        "d": "Schronisko Murowaniec",
-        "correct": "b",
-        "image": "img/chata-zamkowskiego.jpg"
-    },
-    {
-        "question": "Gdzie znajduje się ta nietypowa rzeźba?",
-        "a": "Tatrzański cmentarz symboliczny",
-        "b": "Maksymilianka",
-        "c": "Hrebeniok",
-        "d": "Gubałówka",
-        "correct": "b",
-        "image": "img/maksymilianka.jpg"
-    },
-    {
-        "question": "Jak nazywa się to wzniesienie?",
-        "a": "Królewski Nos",
-        "b": "Jaszczerzycka Kopa",
-        "c": "Osterwa",
-        "d": "Skrajne Solisko",
-        "correct": "a",
-        "image": "img/krolewski-nos.jpg"
-    },
-    {
-        "question": "Jak nazywa się szczyt w centrum zdjęcia?",
-        "a": "Gerlach",
-        "b": "Sławskowski Szczyt",
-        "c": "Kończysta",
-        "d": "Krywań",
-        "correct": "c",
-        "image": "img/konczysta-z-drogi-wolnosci.jpg"
-
-    },
-    {
-        "question": "Jak nazywa się szczyt na zdjęciu?",
-        "a": "Gerlach",
-        "b": "Sławkowski Szczyt",
-        "c": "Kończysta",
-        "d": "Krywań",
-        "correct": "d",
-        "image": "img/widok-na-krywan.jpg"
-    },
-    {
-        "question": "Jak nazywa się to schronisko?",
-        "a": "Chata Terryego",
-        "b": "Chata Zamkowskiego",
-        "c": "Zbójnicka Chata",
-        "d": "Śląski Dom",
-        "correct": "a",
-        "image": "img/chata-terryego-latem.jpg"
-
-    },
-    {
-        "question": "Jak nazywa się to jezioro?",
-        "a": "Hinczowy Staw",
-        "b": "Jamski Staw",
-        "c": "Czarny Staw pod Rysami",
-        "d": "Pośredni Staw Spiski",
-        "correct": "b",
-        "image": "img/posredni-staw-spiski.jpg"
-    },
-    {
-        "question": "Jak nazywa się ta przełęcz?",
-        "a": "Lodowa Przełęcz",
-        "b": "Przełęcz Zawrat",
-        "c": "Polski Grzebień",
-        "d": "Łomnicka Przełęcz",
-        "correct": "a",
-        "image": "img/widok-na-lodowa-przelecz.jpg"
-    },
-    {
-        "question": "Dokąd prowadzi ta droga?",
-        "a": "Kuźnice",
-        "b": "Tatrzańska Jaworzynka",
-        "c": "Stary Smokowiec",
-        "d": "Gubałówka",
-        "correct": "a",
-        "image": "img/droga-na-kuznice-noca.jpg"
-    },
-    {
-        "question": "Co to za dolina?",
-        "a": "Dolina Mięguszowiecka",
-        "b": "Dolina Chochołowska",
-        "c": "Dolina Gąsienicowa",
-        "d": "Dolina Rybiego Potoku",
-        "correct": "c",
-        "image": "img/dolina-gasienicowa-zima.jpg"
-    },
-    {
-        "question": "Jak się nazywa to jezioro?",
-        "a": "Jamski Staw",
-        "b": "Łomnicki Staw",
-        "c": "Mały Hinczowy Staw",
-        "d": "Czarny Staw",
-        "correct": "b",
-        "image": "img/nad-lomnickim-stawem.jpg"
-    },
-    {
-        "question": "Jak nazywa się ten wodospad?",
-        "a": "Złota Siklawa",
-        "b": "Wodospad Olbrzymi",
-        "c": "Wieczny Deszcz",
-        "d": "Wodospad Łomnicki",
-        "correct": "b",
-        "image": "img/wodospad-olbrzymi.jpg"
-    },
-    {
-        "question": "Jak nazywa się ten wodospad?",
-        "a": "Wodospad Łomnicki",
-        "b": "Wodospad Miedziany",
-        "c": "Wieczny Deszcz",
-        "d": "Złota Siklawa",
-        "correct": "d",
-        "image": "img/zlota-siklawa.jpg"
-    },
-    {
-        "question": "Jak nazywa się to jezioro?",
-        "a": "Mały Stawy Spiski",
-        "b": "Popradzki Staw",
-        "c": "Długi Wielicki Staw",
-        "d": "Pośredni Staw Spiski",
-        "correct": "a",
-        "image": "img/maly-staw-spiski.jpg"
-    },
-    {
-        "question": "Z pod jakiego budynku zostało wykonane te zdjęcie?",
-        "a": "Chata Zamkovska",
-        "b": "Chata Zamkovskyego",
-        "c": "Chata Bilika",
-        "d": "Chata Łukasiewicza",
-        "correct": "c",
-        "image": "img/lomnica-z-bilikovej-chaty.jpg"
-    },
-    {
-        "question": "Jak nazywa się ta roślina?",
-        "a": "Rdest Wężownik",
-        "b": "Szarotka Alpejska",
-        "c": "Rojnik Górski",
-        "d": "Rdest Łomnicki",
-        "correct": "c",
-        "image": "img/rdest-wezownik.jpg"
+        "image": "img/posrednia-gran-i-zolty-szczyt.jpg"
     },
     {
         "question": "Jaka część Tatr jest widoczna na zdjęciu?",
@@ -245,26 +45,17 @@
         "image": "img/droga-przez-jurgow.jpg"
     },
     {
-        "question": "Gdzie znajduje się ta charakterystyczna droga?",
-        "a": "Szczyrbskie Jezioro",
-        "b": "Stary Smokowiec",
-        "c": "Tatrzańska Łomnica",
-        "d": "Tatrzańska Jaworzynka",
+        "question": "Jaki staw w Dolinie Wielickiej położony jest obok Śląskiego Domu?",
+        "a": "Wielicki Staw",
+        "b": "Długi Staw Wielicki",
+        "c": "Zmarzły Staw",
+        "d": "Litworowy Staw",
         "correct": "a",
-        "image": "img/droga-strbske-pleso.jpg"
-    },
-    {
-        "question": "Jak nazywa się to schronisko?",
-        "a": "Schronisko nad Popradzkim Stawem",
-        "b": "Schronisko pod Szarotką",
-        "c": "Chata Zamkowskiego",
-        "d": "Chata Bilika",
-        "correct": "a",
-        "image": "img/schronisko-nad-popradzkim-stawem.jpg"
+        "image": "img/slaski-dom.jpg"
     },
     {
         "question": "Do jakiej doliny prowadzi to charakterystyczne zejście ze szlaku?",
-        "a": "Dolina Małej Zimnej Wody",
+        "a": "Dolina Kacza",
         "b": "Dolina Czarna Jaworowa",
         "c": "Dolina Rybiego Potoku",
         "d": "Dolina Złomisk",
@@ -272,58 +63,22 @@
         "image": "img/wejscie-do-doliny-zlomisk.jpg"
     },
     {
-        "question": "Jak nazywa się grań znajdująca się po lewej stronie?",
-        "a": "Grań Solisk",
-        "b": "Grań Szatanów",
-        "c": "Grań Fajek",
-        "d": "Grań Martina",
-        "correct": "a",
-        "image": "img/gran-solisk-i-skrajna-baszta.jpg"
+        "question": "Jak nazywa się ten lodospad w Dolinie Zbójnickiej? ",
+        "a": "Lodospad Ciężki",
+        "b": "Lodospad Veverki",
+        "c": "Lodospad Zahradky",
+        "d": "Lodospad Spadowy",
+        "correct": "c",
+        "image": "img/lodospad-zahradky.jpg"
     },
     {
-        "question": "Do jakiej doliny prowadzi ta charakterystyczna droga?",
-        "a": "Dolina Mięguszowiecka",
-        "b": "Dolina Jaworowa",
-        "c": "Dolina Kaczarska",
-        "d": "Dolina Złomisk",
-        "correct": "d",
-        "image": "img/zmarzly-potok.jpg"
-    },
-    {
-        "question": "Jak nazywa się ten szczyt o stożkowym kszałcie?",
-        "a": "Ganek",
-        "b": "Wysoka",
+        "question": "Jak nazywa się szczyt na zdjęciu?",
+        "a": "Gerlach",
+        "b": "Sławkowski Szczyt",
         "c": "Kończysta",
-        "d": "Dzika Turnia",
-        "correct": "b",
-        "image": "img/wysoka-z-doliny-zlomisk.jpg"
-    },
-    {
-        "question": "Co to za jezioro?",
-        "a": "Popradzki Staw",
-        "b": "Hinczowy Staw",
-        "c": "Zmarzły Staw Mięguszowiecki",
-        "d": "Smoczy Staw",
-        "correct": "c",
-        "image": "img/zmarzly-staw-mieguszowiecki-z-rumowiska.jpg"
-    },
-    {
-        "question": "Najwyższy szczyt na tym zdjęciu to?",
-        "a": "Łomnica",
-        "b": "Kołowy Szczyt",
-        "c": "Kieżmarski Szczyt",
-        "d": "Pośrednia Grań",
-        "correct": "c",
-        "image": "img/kiezmarski-i-huncowski-szczyt.jpg"
-    },
-    {
-        "question": "Sczyt z pierwszego planu to?",
-        "a": "Jastrzębia Turnia",
-        "b": "Kozia Turnia",
-        "c": "Czarny Szczyt",
-        "d": "Jagnięcy Szczyt",
-        "correct": "b",
-        "image": "img/kozia-turnia-z-zoltego-szlaku.jpg"
+        "d": "Krywań",
+        "correct": "d",
+        "image": "img/widok-na-krywan.jpg"
     },
     {
         "question": "Co to za jezioro?",
@@ -335,6 +90,204 @@
         "image": "img/zielony-staw-kiezmarski.jpg"
     },
     {
+        "question": "Jak nazywa się to wzniesienie?",
+        "a": "Królewski Nos",
+        "b": "Jaszczerzycka Kopa",
+        "c": "Osterwa",
+        "d": "Skrajne Solisko",
+        "correct": "a",
+        "image": "img/krolewski-nos.jpg"
+    },
+    {
+        "question": "Jak nazywa się grań widoczna na zdjęciu?",
+        "a": "Grań Baszt",
+        "b": "Sławkowska Grań",
+        "c": "Staroleśna Grań",
+        "d": "Grań Rohaczy",
+        "correct": "a",
+        "image": "img/gran-baszt-z-koprowego-wierchu.jpg"
+    },
+    {
+        "question": "Gdzie znajduje się ta charakterystyczna droga?",
+        "a": "Szczyrbskie Jezioro",
+        "b": "Stary Smokowiec",
+        "c": "Tatrzańska Łomnica",
+        "d": "Tatrzańska Jaworzynka",
+        "correct": "a",
+        "image": "img/droga-strbske-pleso.jpg"
+    },
+    {
+        "question": "Z pod jakiego budynku zostało wykonane te zdjęcie?",
+        "a": "Chata Zamkovska",
+        "b": "Chata Zamkovskyego",
+        "c": "Chata Bilika",
+        "d": "Chata Łukasiewicza",
+        "correct": "c",
+        "image": "img/lomnica-z-bilikovej-chaty.jpg"
+    },
+    {
+        "question": "Jak nazywa się to jezioro?",
+        "a": "Hinczowy Staw",
+        "b": "Jamski Staw",
+        "c": "Czarny Staw pod Rysami",
+        "d": "Pośredni Staw Spiski",
+        "correct": "b",
+        "image": "img/posredni-staw-spiski.jpg"
+    },
+    {
+        "question": "Jak nazywa się ten wodospad?",
+        "a": "Złota Siklawa",
+        "b": "Wodospad Olbrzymi",
+        "c": "Wieczny Deszcz",
+        "d": "Wodospad Łomnicki",
+        "correct": "b",
+        "image": "img/wodospad-olbrzymi.jpg"
+    },
+    {
+        "question": "Jak nazywa się przełęcz między Zmarzłym Szczytem a Wschodnim Szczytem Żelaznych Wrót?",
+        "a": "Rumińska Przełączka",
+        "b": "Przełęcz Waga",
+        "c": "Przełęcz Karb",
+        "d": "Przełęcz Zawrat",
+        "correct": "a",
+        "image": "img/zleb-do-rumiskiej-przelaczki.jpg"
+    },
+    {
+        "question": "Jaka dolina, dostępna żółtym szlakiem z Kuźnic, zawiera stare chaty pasterskie/hutnicze?",
+        "a": "Dolina Jaworzynki",
+        "b": "Dolina Białego",
+        "c": "Dolina Kasprowa",
+        "d": "Dolina Kuźnicka",
+        "correct": "a",
+        "image": "img/chaty-dolina-jaworzynki.jpg"
+    },
+    {
+        "question": "Jak nazywa się ta przełęcz?",
+        "a": "Lodowa Przełęcz",
+        "b": "Przełęcz Zawrat",
+        "c": "Polski Grzebień",
+        "d": "Łomnicka Przełęcz",
+        "correct": "a",
+        "image": "img/widok-na-lodowa-przelecz.jpg"
+    },
+    {
+        "question": "Jak nazywa się budynek w oddali? ",
+        "a": "Śląski Dom",
+        "b": "Hrebeniok",
+        "c": "Zbójnicka Chata",
+        "d": "Chata Bilika",
+        "correct": "a",
+        "image": "img/slaski-dom-z-oddali.jpg"
+    },
+    {
+        "question": "Który szlak jest określany w źródłach jako cechujący się najdłuższą sekwencją łańcuchów w Tatrach?",
+        "a": "Szlak na Gerlach",
+        "b": "Szlak na Rysy",
+        "c": "Szlak na Lodową Przełęcz",
+        "d": "Szlak na Czerwoną Ławkę",
+        "correct": "c",
+        "image": "img/z-czerwonej-lawki.jpg"
+    },
+    {
+        "question": "Jak nazywa się ta dolina?",
+        "a": "Dolina Mięguszowiecka",
+        "b": "Dolina Staroleśna",
+        "c": "Dolina Batyżowiecka",
+        "d": "Dolina Kieżmarska",
+        "correct": "c",
+        "image": "img/gerlach-od-doliny-batyzowieckiej.jpg"
+    },
+    {
+        "question": "Dokąd prowadzi ta droga?",
+        "a": "Kuźnice",
+        "b": "Tatrzańska Jaworzynka",
+        "c": "Stary Smokowiec",
+        "d": "Gubałówka",
+        "correct": "a",
+        "image": "img/droga-na-kuznice-noca.jpg"
+    },
+    {
+        "question": "Jak nazywa się ten budynek będący węzłem wielu kluczowych szlaków?",
+        "a": "Śląski Dom",
+        "b": "Chata Zamkowskiego",
+        "c": "Hrebeniok",
+        "d": "Chata Bilika",
+        "correct": "c",
+        "image": "img/hrebeniok-turysci.jpg"
+    },
+    {
+        "question": "Jak nazywa się ta przełęcz?",
+        "a": "Przełęcz Zawrat",
+        "b": "Świnicka Przełęcz",
+        "c": "Przełęcz Krzyżne",
+        "d": "Przełęcz Karb",
+        "correct": "d",
+        "image": "img/przelecz-karb-zima.jpg"
+    },
+    {
+        "question": "Co to za jezioro?",
+        "a": "Popradzki Staw",
+        "b": "Hinczowy Staw",
+        "c": "Zmarzły Staw Mięguszowiecki",
+        "d": "Smoczy Staw",
+        "correct": "c",
+        "image": "img/zmarzly-staw-mieguszowiecki-z-rumowiska.jpg"
+    },
+    {
+        "question": "Jak nazywa się największe jezioro po słowackiej stronie Tatr, będące jednocześnie czwartym największym w całych Tatrach?",
+        "a": "Popradzki Staw",
+        "b": "Zielony Staw Kieżmarski",
+        "c": "Wielki Hińczowy Staw",
+        "d": "Długi Staw Staroleśny",
+        "correct": "c",
+        "image": "img/duzy-hinczowy-staw.jpg"
+    },
+    {
+        "question": "Jaka polana w Tatrach Zachodnich charakteryzuje się pasterskimi chatami?",
+        "a": "Siwa Polana",
+        "b": "Polana Chochołowska",
+        "c": "Polana Huty Chochołowskie",
+        "d": "Polana Trzydniowianka",
+        "correct": "c",
+        "image": "img/polana-chocholowska.jpg"
+    },
+    {
+        "question": "W jakiej dolinie znajduje się Chata Téryego?",
+        "a": "Dolina Pięciu Stawów Spiskich",
+        "b": "Dolina Małej Zimnej Wody",
+        "c": "Dolina Staroleśna",
+        "d": "Dolina Wielicka",
+        "correct": "a",
+        "image": "img/chata-terryego-latem.jpg"
+    },
+    {
+        "question": "Jaki kolore szlaku prowadzi ze Starego Smokowca w kierunku Hrebenioka?",
+        "a": "Czerwonym",
+        "b": "Żółtym",
+        "c": "Zielonym",
+        "d": "Niebieskim",
+        "correct": "c",
+        "image": "img/w-kierunku-hrebenioka.jpg"
+    },
+    {
+        "question": "Jak nazywa się najwyższy wierzchołek Grani Baszt?",
+        "a": "Szatan",
+        "b": "Skrajna Baszta",
+        "c": "Szatania Turnia",
+        "d": "Zadnia Baszta",
+        "correct": "b",
+        "image": "img/gran-baszt-z-koprowego-wierchu.jpg"
+    },
+    {
+        "question": "Jak nazywa się ten charaktersytyczny stożkowy szczyt?",
+        "a": "Szatan",
+        "b": "Rysy",
+        "c": "Wysoka",
+        "d": "Ganek",
+        "correct": "c",
+        "image": "img/wysoka-z-doliny-mieguszowieckiej.jpg"
+    },
+    {
         "question": "Gdzie położony jest ten eksponowany fragment?",
         "a": "Droga na Polski Grzebień",
         "b": "Wyżnie Strzeleckie Spady",
@@ -344,52 +297,43 @@
         "image": "img/jakubowe-spady-pokonane.jpg"
     },
     {
-        "question": "Ten wierzchołek to: ",
-        "a": "Baranie Rogi",
-        "b": "Kołowy Szczyt",
-        "c": "Kieżmarski Szczyt",
+        "question": "Sczyt z pierwszego planu to?",
+        "a": "Jastrzębia Turnia",
+        "b": "Kozia Turnia",
+        "c": "Czarny Szczyt",
+        "d": "Jagnięcy Szczyt",
+        "correct": "b",
+        "image": "img/kozia-turnia-z-zoltego-szlaku.jpg"
+    },
+    {
+        "question": "Na jakim szczycie znajduję się ta charakterystyczna skała?",
+        "a": "Staroleśny Szczyt",
+        "b": "Pośrednia Grań",
+        "c": "Baranie Rogi",
         "d": "Kończysta",
-        "correct": "b",
-        "image": "img/kolowy-szczyt.jpg"
+        "correct": "d",
+        "image": "img/kowadelko-na-konczystej.jpg"
     },
     {
-        "question": "Ten szczyt ma wysokość?",
-        "a": "2538 m.n.p.m.",
-        "b": "2452 m.n.p.m.",
-        "c": "2546 m.n.p.m.",
-        "d": "2550 m.n.p.m.",
+        "question": "Jak się nazywa to małe, niezbyt obfite jezioro?",
+        "a": "Jamski Staw",
+        "b": "Łomnicki Staw",
+        "c": "Mały Hinczowy Staw",
+        "d": "Czarny Staw",
         "correct": "b",
-        "image": "img/slawkowski-szczyt-zima.jpg"
+        "image": "img/nad-lomnickim-stawem.jpg"
     },
     {
-        "question": "Jak nazywa się budynek w oddali? ",
-        "a": "Śląski Dom",
+        "question": "Jak nazywa się to kultowe schronisko?",
+        "a": "Chata Terryego",
         "b": "Chata Zamkowskiego",
         "c": "Zbójnicka Chata",
-        "d": "Chata Bilika",
+        "d": "Śląski Dom",
         "correct": "a",
-        "image": "img/slaski-dom-z-oddali.jpg"
+        "image": "img/chata-terryego-latem.jpg"
     },
     {
-        "question": "Jak nazywa się jezioro na zdjęciu? ",
-        "a": "Popradzki Staw",
-        "b": "Kołowy Staw",
-        "c": "Zmarzły Staw Mięguszowiecki",
-        "d": "Morskie Oko",
-        "correct": "b",
-        "image": "img/kolowy-staw-z-koloweg-szczytu.jpg"
-    },
-    {
-        "question": "Jak nazywa się ten lodospad w Dolinie Zbójnickiej? ",
-        "a": "Wodospad Łomnicki",
-        "b": "Wodospad Miedziany",
-        "c": "Zahradky",
-        "d": "Złota Siklawa",
-        "correct": "b",
-        "image": "img/lodospad-zahradky.jpg"
-    },
-    {
-        "question": "Co to za szczyt? ",
+        "question": "Jak nazywa się ten dostępny szlakiem turystycznym szczyt? ",
         "a": "Mała Wysoka",
         "b": "Dzika Turnia",
         "c": "Mały Jaworowy Szczyt",
@@ -398,16 +342,7 @@
         "image": "img/mala-wysoka-zima.jpg"
     },
     {
-        "question": "Co to za szczyt? ",
-        "a": "Jaworowy Szczyt",
-        "b": "Pośrednia Grań",
-        "c": "Staroleśny Szczyt",
-        "d": "Wysoka",
-        "correct": "a",
-        "image": "img/jaworowy-szczyt.jpg"
-    },
-    {
-        "question": "Wnętrze jakiego schroniska widoczne jest na zdjęciu? ",
+        "question": "Wnętrze jakiego schroniska z charakterystycznym pianinem widoczne jest na zdjęciu? ",
         "a": "Schronisko nad Popradzkim Stawem",
         "b": "Chata Zamkowskiego",
         "c": "Zbójnicka Chata",
@@ -416,22 +351,21 @@
         "image": "img/wnetrze-zbojnickiej-chaty-zima.jpg"
     },
     {
-        "question": "Najwyższy Szczyt na zdjęciu to? ",
-        "a": "Pośrednia Grań",
-        "b": "Lodowy Szczyt",
-        "c": "Staroleśny Szczyt",
-        "d": "Wysoka",
-        "correct": "a",
-        "image": "img/posrednia-gran-i-zolty-szczyt.jpg"
+        "question": "Jak nazywa się przełęcz położona bezpośrednio pod szczytem Grzesia?",
+        "a": "Przełęcz Grzesia",
+        "b": "Przełęcz pod Grzesiem",
+        "c": "Przełęcz Rakowska",
+        "d": "Przełęcz Wołowcowa",
+        "correct": "b"
     },
     {
-        "question": "Co to za polana? ",
-        "a": "Polana Chochołowska",
-        "b": "Polana Mięguszowiecka",
-        "c": "Polana Złomisk",
-        "d": "Hala Gąsienicowa",
-        "correct": "a",
-        "image": "img/polana-chocholowska.jpg"
+        "question": "Z jakiej doliny widać ten najwyższy, stożkowy szczyt?",
+        "a": "Dolina Złomisk",
+        "b": "Dolina Mięguszowiecka",
+        "c": "Dolina Staroleśna",
+        "d": "Dolina Wielicka",
+        "correct": "b",
+        "image": "img/wysoka-z-doliny-zlomisk.jpg"
     },
     {
         "question": "Jaki szczyt znajduje się na pierwszym planie? ",
@@ -443,12 +377,192 @@
         "image": "img/w-strone-wolowca.jpg"
     },
     {
-        "question": "Ośnieżona grań na zdjęciu to grań? ",
-        "a": "Grań Baszt",
+        "question": "Jak nazywa się szczyt w centrum zdjęcia?",
+        "a": "Gerlach",
+        "b": "Sławskowski Szczyt",
+        "c": "Kończysta",
+        "d": "Krywań",
+        "correct": "c",
+        "image": "img/konczysta-z-drogi-wolnosci.jpg"
+    },
+    {
+        "question": "Ten wierzchołek to: ",
+        "a": "Baranie Rogi",
+        "b": "Kołowy Szczyt",
+        "c": "Kieżmarski Szczyt",
+        "d": "Kończysta",
+        "correct": "b",
+        "image": "img/kolowy-szczyt.jpg"
+    },
+    {
+        "question": "Ten charaktersytyczny, dostępny szlakiem turystycznym szczyt ma wysokość:",
+        "a": "2538 m.n.p.m.",
+        "b": "2452 m.n.p.m.",
+        "c": "2546 m.n.p.m.",
+        "d": "2550 m.n.p.m.",
+        "correct": "b",
+        "image": "img/slawkowski-szczyt-zima.jpg"
+    },
+    {
+        "question": "Jak nazywa się jezioro na zdjęciu? ",
+        "a": "Popradzki Staw",
+        "b": "Kołowy Staw",
+        "c": "Zmarzły Staw Mięguszowiecki",
+        "d": "Morskie Oko",
+        "correct": "b",
+        "image": "img/kolowy-staw-z-koloweg-szczytu.jpg"
+    },
+    {
+        "question": "Jakim kolorem szlaku podąża się do Chaty Zbójnickiej?",
+        "a": "Czerwonym",
+        "b": "Zielonym",
+        "c": "Niebieskim",
+        "d": "Żółtym",
+        "correct": "b",
+        "image": "img/mostek-warzchowa-kotlina.jpg"
+    },
+    {
+        "question": "Jak nazywa się najwyższy szczyt polskich Tatr?",
+        "a": "Rysy",
+        "b": "Kasprowy Wierch",
+        "c": "Giewont",
+        "d": "Świnica",
+        "correct": "a",
+        "image": "img/kotlinka-pod-waga.jpg"
+    },
+    {
+        "question": "Jak nazywa się to niezbyt popularne schronisko?",
+        "a": "Schronisko pod Rysami",
+        "b": "Chata Zamkowskiego",
+        "c": "Schronisko w Roztoce",
+        "d": "Schronisko Murowaniec",
+        "correct": "b",
+        "image": "img/chata-zamkowskiego.jpg"
+    },
+    {
+        "question": "Jakimi szlakiem prócz Boczaniem można dotrzeć na tą przełęcz od Kuźnic?",
+        "a": "Doliną Jaworzynski",
+        "b": "Przez Świstówkę",
+        "c": "Doliną Roztoki",
+        "d": "Doliną Olczyską",
+        "correct": "a",
+        "image": "img/przelecz-miedzy-kopami.jpg"
+    },
+    {
+        "question": "Charakterystyczna, ośnieżona grań na zdjęciu po której wiedzie szlak turystyczny to:? ",
+        "a": "Koperszadzka Grań",
         "b": "Grań Rohaczy",
-        "c": "Grań Fajek",
+        "c": "Szpiglasowa Grań",
         "d": "Grań Martina",
         "correct": "b",
         "image": "img/towarzystwo-na-rakoniu.jpg"
+    },
+    {
+        "question": "Jak nazywa się ten wodospad w Dolinie Wielickiej?",
+        "a": "Wodospad Łomnicki",
+        "b": "Wodospad Miedziany",
+        "c": "Wodospad Olbrzymi",
+        "d": "Złota Siklawa",
+        "correct": "d",
+        "image": "img/zlota-siklawa.jpg"
+    },
+    {
+        "question": "Ile metrów w przybliżeniu ma ta ściana?",
+        "a": "500",
+        "b": "600",
+        "c": "800",
+        "d": "900",
+        "correct": "d",
+        "image": "img/kiezmarski-i-huncowski-szczyt.jpg"
+    },
+    {
+        "question": "Jak nazywa się to schronisko?",
+        "a": "Schronisko nad Popradzkim Stawem",
+        "b": "Schronisko pod Szarotką",
+        "c": "Schroniska na Zielonym Stawem Kieżmarskim",
+        "d": "Schronisko Murowaniec",
+        "correct": "a",
+        "image": "img/schronisko-nad-popradzkim-stawem.jpg"
+    },
+    {
+        "question": "Jak nazywa się dolina widoczna na zdjęciu?",
+        "a": "Dolina Małej Zimnej Wody",
+        "b": "Dolina Rybiego Potoku",
+        "c": "Dolina Złomisk",
+        "d": "Dolina Czarna Jaworowa",
+        "correct": "c",
+        "image": "img/panorama-dolina-zlomisk.jpg"
+    },
+    {
+        "question": "Jak nazywa się ta roślina?",
+        "a": "Rdest Wężownik",
+        "b": "Szarotka Alpejska",
+        "c": "Rojnik Górski",
+        "d": "Rdest Łomnicki",
+        "correct": "c",
+        "image": "img/rdest-wezownik.jpg"
+    },
+    {
+        "question": "Do jakiej doliny prowadzi ta charakterystyczna, pozaszlakowa trasa?",
+        "a": "Dolina Mięguszowiecka",
+        "b": "Dolina Jaworowa",
+        "c": "Dolina Kaczarska",
+        "d": "Dolina Złomisk",
+        "correct": "d",
+        "image": "img/zmarzly-potok.jpg"
+    },
+    {
+        "question": "Gdzie znajduje się ta nietypowa rzeźba?",
+        "a": "Tatrzański cmentarz symboliczny",
+        "b": "Maksymilianka",
+        "c": "Hrebeniok",
+        "d": "Gubałówka",
+        "correct": "b",
+        "image": "img/maksymilianka.jpg"
+    },
+    {
+        "question": "Co to za schronisko (niegdyś było one nazywane Trupiarnią)?",
+        "a": "Zbójnicka Chata",
+        "b": "Chata Terryego",
+        "c": "Waga pod Rysami",
+        "d": "Schronisko na Solisku",
+        "correct": "a",
+        "image": "img/zbojnicka-chata.jpg"
+    },
+    {
+        "question": "Jak nazywa się to jezioro?",
+        "a": "Mały Stawy Spiski",
+        "b": "Popradzki Staw",
+        "c": "Długi Wielicki Staw",
+        "d": "Pośredni Staw Spiski",
+        "correct": "a",
+        "image": "img/maly-staw-spiski.jpg"
+    },
+    {
+        "question": "Na jakiej wysokości znajduje się Wyżnia Koprowa Przełęcz?",
+        "a": "2100",
+        "b": "2045",
+        "c": "2076",
+        "d": "2180",
+        "correct": "d",
+        "image": "img/wyżnia-koprowa-przełęcz.jpg"
+    },
+    {
+        "question": "Jaki szczyt, widoczny ze Strzeleckich Pól, jest określany w źródłach jako najtrudniej dostępny w Tatrach?",
+        "a": "Dzika Turnia",
+        "b": "Ostry Szczyt",
+        "c": "Żabi Koń",
+        "d": "Żłobisty Szczyt",
+        "correct": "b",
+        "image": "img/piargi-dolina-zbojnicka.jpg"
+    },
+    {
+        "question": "Co to za charakterystyczna dolina?",
+        "a": "Dolina Mięguszowiecka",
+        "b": "Dolina Chochołowska",
+        "c": "Dolina Gąsienicowa",
+        "d": "Dolina Rybiego Potoku",
+        "correct": "c",
+        "image": "img/dolina-gasienicowa-zima.jpg"
     }
 ]
