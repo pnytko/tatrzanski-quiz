@@ -270,15 +270,6 @@
         "image": "img/droga-do-hrebenioka.jpg"
     },
     {
-        "question": "Jak nazywa się najwyższy wierzchołek Grani Baszt?",
-        "a": "Szatan",
-        "b": "Skrajna Baszta",
-        "c": "Szatania Turnia",
-        "d": "Zadnia Baszta",
-        "correct": "b",
-        "image": "img/gran-baszt-z-koprowego-wierchu.jpg"
-    },
-    {
         "question": "Jak nazywa się ten charaktersytyczny stożkowy szczyt?",
         "a": "Szatan",
         "b": "Rysy",
@@ -556,5 +547,131 @@
         "d": "Dolina Rybiego Potoku",
         "correct": "c",
         "image": "img/dolina-gasienicowa-zima.jpg"
+    },
+    {
+        "question": "Co to za szczyt widziany z drogi nad Morskie Oko?",
+        "a": "Wielki Młynarz",
+        "b": "Rysy",
+        "c": "Mięguszowiecki Szczyt Wielki",
+        "d": "Mięguszowiecki Szczyt Czarny",
+        "correct": "a",
+        "image": "img/roztocka-czyba-i-wielki-mlynarz.jpg"
+    },
+    {
+        "question": "Jak nazywa się ten bardzo popularny wodospad w drodze na Morskie Oko?",
+        "a": "Wodogrzmoty Mieckiewicza",
+        "b": "Buczynowa Siklawa",
+        "c": "Sikawka",
+        "d": "Wielka Siklawa",
+        "correct": "a",
+        "image": "img/wodogrzmoty-mieckiewicza.jpg"
+    },
+    {
+        "question": "Jak nazywa się ten widziany z drogi na Morskie Oko, znajdujący się na Słowacji?",
+        "a": "Staroleśny Szczyt",
+        "b": "Wysoka",
+        "c": "Ganek",
+        "d": "Świstowy Szczyt",
+        "correct": "d",
+        "image": "img/w-drodze-na-morskie-oko.jpg"
+    },
+    {
+        "question": "Jak nazywa się najwyższy zaznaczony szczyt, widziany z Polany Włosienica?",
+        "a": "Mięguszowiecki Szczyt Wielki",
+        "b": "Mięguszowiecki Szczyt Czarny",
+        "c": "Mięguszowiecki Szczyt Pośredni",
+        "d": "Rysy",
+        "correct": "a",
+        "image": "img/polana-wlosienica.jpg"
+    },
+    {
+        "question": "Jak nazywa się najpopularniejsze jezioro w Tatrach, widoczne na zdjęciu?",
+        "a": "Morskie Oko",
+        "b": "Czarny Staw Gąsienicowy",
+        "c": "Wielki Staw Polski",
+        "d": "Czarny Staw pod Rysami",
+        "correct": "a",
+        "image": "img/morskie-oko.jpg"
+    },
+    {
+        "question": "Jak nazywa zaznaczony szczyt?",
+        "a": "Mięguszowiecki Szczyt Wielki",
+        "b": "Mięguszowiecki Szczyt Pośredni",
+        "c": "Cubryna",
+        "d": "Żabia Turnia",
+        "correct": "c",
+        "image": "img/z-ceprostrady-na-cubryne.jpg"
+    },
+    {
+        "question": "Czasem jeden, czasem dwa, czasem wcale - jak nazywa się to nietypowe jezioro w drodze na Szpiglasową Przełęcz?",
+        "a": "Staw Staszica",
+        "b": "Wyżnie Mnichowe Stawki",
+        "c": "Wyżni Ciemnosmreczyński Staw",
+        "d": "Przedni Staw Polski",
+        "correct": "a",
+        "image": "img/staw-staszica.jpg"
+    },  
+    {
+        "question": "Jak nazywa się ta bardzo popularna wspinaczkowa, charakterystyczna turnia?",
+        "a": "Żabia Turnia",
+        "b": "Żabia Lalka",
+        "c": "Mnich",
+        "d": "Zadni Mnich",
+        "correct": "c",
+        "image": "img/mnich-i-cubryna.jpg"
+    },  
+    {
+        "question": "Jak nazywa się ta roślina?",
+        "a": "Rdest Wężownik",
+        "b": "Sasanka Alpejska",
+        "c": "Szarotka Alpejska",
+        "d": "Rojnik Górski",
+        "correct": "a",
+        "image": "img/sasanka-alpejska.jpg"
+    },
+    {
+        "question": "Jak nazywa się ta przełęcz?",
+        "a": "Szpiglasowa Przełęcz",
+        "b": "Wrota Chałubińskiego",
+        "c": "Zawrat",
+        "d": "Krzyżne",
+        "correct": "c",
+        "image": "img/szpiglasowa-przelecz.jpg"
+    },
+    {
+        "question": "Jak nazywa się ten staw widziany ze Szpiglasowego Wierchu?",
+        "a": "Niżni Smreczyński Staw",
+        "b": "Wielki Staw Polski",
+        "c": "Zadni Staw Polski",
+        "d": "Czarny Staw Polsski",
+        "correct": "a",
+        "image": "img/nizni-ciemnosmreczynski-staw-i-gran-hrubego.jpg"
+    },
+    {
+        "question": "Masyw jakiego szczytu jest widziany ze Szpiglasowego Wierchu?",
+        "a": "Miedziane",
+        "b": "Walentkowy Wierch",
+        "c": "Gładki Wierch",
+        "d": "Kozi Wierch",
+        "correct": "a",
+        "image": "img/gran-miedzianego.jpg"
+    },
+    {
+        "question": "Jak nazywa się największy staw w Polsce i Tatrach ogółem?",
+        "a": "Wielki Hińczowy Staw",
+        "b": "Wielki Staw Polski",
+        "c": "Morskie Oko",
+        "d": "Czarny Staw Polski",
+        "correct": "b",
+        "image": "img/wielki-staw-polski.jpg"
+    },
+    {
+        "question": "Jak nazywa się ten szczyt?",
+        "a": "Świnica",
+        "b": "Skrajny Granat",
+        "c": "Kozi Wierch",
+        "d": "Wielka Buczynowa Turnia",
+        "correct": "c",
+        "image": "img/kozie-wierchy.jpg"
     }
 ]
