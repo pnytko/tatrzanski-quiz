@@ -342,11 +342,11 @@
         "image": "img/wnetrze-zbojnickiej-chaty-zima.jpg"
     },
     {
-        "question": "Z jakiej doliny widać ten najwyższy, stożkowy szczyt?",
-        "a": "Dolina Złomisk",
-        "b": "Dolina Mięguszowiecka",
-        "c": "Dolina Staroleśna",
-        "d": "Dolina Wielicka",
+        "question": "Jak nazywa się ten stożkowy szczyt widziany z Doliny Złomisk?",
+        "a": "Wysoka",
+        "b": "Ganek",
+        "c": "Smoczy Szczyt",
+        "d": "Rumanowy Szczyt",
         "correct": "a",
         "image": "img/wysoka-z-doliny-zlomisk.jpg"
     },
@@ -559,7 +559,7 @@
     },
     {
         "question": "Jak nazywa się ten bardzo popularny wodospad w drodze na Morskie Oko?",
-        "a": "Wodogrzmoty Mieckiewicza",
+        "a": "Wodogrzmoty Mickiewicza",
         "b": "Buczynowa Siklawa",
         "c": "Sikawka",
         "d": "Wielka Siklawa",
@@ -567,7 +567,7 @@
         "image": "img/wodogrzmoty-mickiewicza.jpg"
     },
     {
-        "question": "Jak nazywa się ten widziany z drogi na Morskie Oko, znajdujący się na Słowacji?",
+        "question": "Jak nazywa się ten widziany z drogi na Morskie Oko, znajdujący się na Słowacji szczyt?",
         "a": "Staroleśny Szczyt",
         "b": "Wysoka",
         "c": "Ganek",
@@ -626,7 +626,7 @@
         "b": "Sasanka Alpejska",
         "c": "Szarotka Alpejska",
         "d": "Rojnik Górski",
-        "correct": "a",
+        "correct": "b",
         "image": "img/sasanka-alpejska.jpg"
     },
     {
@@ -635,7 +635,7 @@
         "b": "Wrota Chałubińskiego",
         "c": "Zawrat",
         "d": "Krzyżne",
-        "correct": "c",
+        "correct": "a",
         "image": "img/szpiglasowa-przelecz.jpg"
     },
     {
@@ -643,7 +643,7 @@
         "a": "Niżni Smreczyński Staw",
         "b": "Wielki Staw Polski",
         "c": "Zadni Staw Polski",
-        "d": "Czarny Staw Polsski",
+        "d": "Czarny Staw Polski",
         "correct": "a",
         "image": "img/nizni-ciemnosmreczynski-staw-i-gran-hrubego.jpg"
     },
