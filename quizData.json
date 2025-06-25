@@ -673,5 +673,23 @@
         "d": "Wielka Buczynowa Turnia",
         "correct": "c",
         "image": "img/kozie-wierchy.jpg"
+    },
+    {
+        "question": "Jak nazywa się ten dostępny szlakiem turystycznym szczyt?",
+        "a": "Mała Wysoka",
+        "b": "Szpiglasowy Wierch",
+        "c": "Kozi Wierch",
+        "d": "Koprowy Wierch",
+        "correct": "d",
+        "image": "img/koprowy-wierch-z-okolic-mieguszowieckiego-szczytu-czarnego.jpg"
+    },
+    {
+        "question": "Jak nazywa się ten szczyt?",
+        "a": "Mięguszowiecki Szczyt Wielki",
+        "b": "Mięguszowiecki Szczyt Pośredni",
+        "c": "Mięguszowiecki Szczyt Czarny",
+        "d": "Cubryna",
+        "correct": "b",
+        "image": "img/mieguszowiecki-szczyt-posredni-z-podejscia-na-mieguszowiecki-szczyt-czarny.jpg"
     }
 ]
